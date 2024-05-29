@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @DiamondJdev
-- 👀 I’m interested in all things C
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on leave_me_alone.java 
-- 📫 How to reach me, you don't
-
-/*
-go 
-away
-*/
+- Hey, I'm @DiamondJdev
+- Rockets are my thing, just saying 
+- I’m currently learning advanced C++
+- I’m looking for someone interested in collabrating with a game/app 
+- If you need me, just dm :/
 
