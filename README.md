@@ -1,5 +1,13 @@
-- Hey, I'm @DiamondJdev
-- Rockets are my thing, just saying 
-- I’m currently learning TypeScript, Deno and Agile
-- I’m looking for someone interested in Backend/Mobile Development
-- If you need me just dm, I'm pretty active
+# 👋 Hey, I'm **@DiamondJdev**  
+
+🚀 **Aviation Enthusiast** | 🤖 **Robotics & AI Explorer**  
+
+### ✨ About Me  
+- ✈️ Fascinated by anything that flies: **Rockets, Drones, Planes...**  
+- 🛠️ Currently learning **Python, Computer Vision, and Robotics**  
+- 🤝 Looking to collaborate on **Backend Development & Machine Learning**  
+- 💬 Wanna talk? Just **DM me**—I'm pretty active!  
+
+---
+
+🔥 *Building the future, one project at a time...*  
