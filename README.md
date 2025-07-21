@@ -1,13 +1,13 @@
-# 👋 Hey, I'm **@DiamondJdev**  
+# Hey, I'm **@DiamondJdev**  
 
-🚀 **Aviation Enthusiast** | 🤖 **Robotics & AI Explorer**  
+ **Backend Hyperfixation** | **Flight Enthusiast**  
 
-### ✨ About Me  
-- ✈️ Fascinated by anything that flies: **Rockets, Drones, Planes...**  
-- 🛠️ Currently learning **Python, Computer Vision, and Robotics**  
-- 🤝 Looking to collaborate on **Full Stack Development and Robotics**  
-- 💬 Wanna talk? Just **DM me**—I'm pretty active!  
+### About Me  
+- Fascinated by anything that flies: **Rockets, Drones, Planes...**  
+- Currently mastering **Nest.js, PostgreSQL, Docker**  
+- Looking to collaborate on **Full Stack Development and Robotics**  
+- Can always find me building a Backend somewhere
 
 ---
 
-🔥 *Building the future, one project at a time...*  
+*Where there is a plan, there is a way*  
