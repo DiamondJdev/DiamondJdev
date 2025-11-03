@@ -1,6 +1,6 @@
 # Hey, I'm **@DiamondJdev**  
 
- **Backend Hyperfixation** | **Flight Enthusiast**  
+ **Lead Programer 719RIP** | **Backend Hyperfixation** | **Flight Enthusiast**
 
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
