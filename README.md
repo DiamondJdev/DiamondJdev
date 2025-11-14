@@ -2,6 +2,9 @@
 
  **Lead Backend Engineer - MirAI** | **Lead Programer - 719RIP** | **Backend Hyperfixation** | **Flight Enthusiast**
 
+**VISIT MY PORTFOLIO WEBSITE!!!!**
+diamondjdev.me
+
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
 - Currently mastering **Nest.js, PostgreSQL, Docker**  
