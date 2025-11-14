@@ -1,6 +1,6 @@
 # Hey, I'm **@DiamondJdev**  
 
- **Lead Programer 719RIP** | **Backend Hyperfixation** | **Flight Enthusiast**
+ **Lead Backend Engineer - MirAI** | **Lead Programer - 719RIP** | **Backend Hyperfixation** | **Flight Enthusiast**
 
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
