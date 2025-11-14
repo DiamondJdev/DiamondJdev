@@ -2,8 +2,8 @@
 
  **Lead Backend Engineer - MirAI** | **Lead Programer - 719RIP** | **Backend Hyperfixation** | **Flight Enthusiast**
 
-**VISIT MY PORTFOLIO WEBSITE!!!!**
-diamondjdev.me
+**VISIT MY PORTFOLIO WEBSITE!!!!** <br>
+[diamondjdev.me](https://www.diamondjdev.me)
 
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
