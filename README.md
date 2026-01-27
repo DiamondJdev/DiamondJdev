@@ -1,16 +1,20 @@
-# Hey, I'm **@DiamondJdev**  
+# Hey, I'm @DiamondJdev 👋
 
- **Lead Backend Engineer - MirAI** | **Lead Programer - 719RIP** | **Backend Hyperfixation** | **Flight Enthusiast**
-
-**VISIT MY PORTFOLIO WEBSITE!!!!** <br>
-[diamondjdev.me](https://www.diamondjdev.me)
+**SWE Extern - Walmart Global Technology** | **Backend Hyperfixation** | **Flight Enthusiast**
 
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
-- Currently mastering **Nest.js, PostgreSQL, Docker**  
-- Looking to collaborate on **Full Stack Development and Robotics**  
 - Can always find me building a Backend somewhere
 
----
+### Things I code with
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,java,spring,postgres,docker,kubernetes,vscode,discord)](https://skillicons.dev)
+### Studying
+[![My Skills](https://skillicons.dev/icons?i=arch,aws,vim,grafana,graphql)](https://skillicons.dev)
 
-*Where there is a plan, there is a way*  
+## My Github Stats
+[![My Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diamondjdev&theme=github_dark)](http://github.com/diamondjdev)
+
+---
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cameronginther@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diamondjdev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameronginther/)
