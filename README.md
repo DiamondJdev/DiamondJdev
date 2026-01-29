@@ -18,20 +18,6 @@
   <a href="https://github.com/diamondjdev">
     <img
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diamondjdev&theme=github_dark"
-      height="180"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diamondjdev&theme=github_dark"
-      height="180"
-    />
-  </a>
-</div>
-
-<!-- Non-height-matched version-->
-<!-- <div align="center">
-  <a href="https://github.com/diamondjdev">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diamondjdev&theme=github_dark"
       width="65%"
     />
     <img
@@ -39,7 +25,22 @@
       width="34%"
     />
   </a>
+</div>
+
+<!-- Height-matched version-->
+<!-- <div align="center">
+  <a href="https://github.com/diamondjdev">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diamondjdev&theme=github_dark"
+      height="180"
+    />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diamondjdev&theme=github_dark"
+      height="180"
+    />
+  </a>
 </div> -->
+
 
 ---
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cameronginther@gmail.com)
