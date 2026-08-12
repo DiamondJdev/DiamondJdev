@@ -1,6 +1,6 @@
 # Hey, I'm @DiamondJdev 👋
 
-SWE - **Tariff Ninja** | Backend SWE Intern - **WayPave** | **Backend Hyperfixation**
+SWE - **Tariff Ninja** | Ex SWE Intern - **WayPave & Walmart Global** | **Backend Hyperfixation**
 
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
