@@ -5,11 +5,12 @@ SWE - **Tariff Ninja** | Ex SWE Intern - **WayPave & Walmart Global** | **Backen
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
 - Can always find me building a Backend somewhere
+- I use NixOS btw
 
 ### Things I code with
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,java,spring,postgres,docker,kubernetes,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,nix,java,spring,postgres,docker,kubernetes,vscode,discord)](https://skillicons.dev)
 ### Studying
-[![My Skills](https://skillicons.dev/icons?i=arch,aws,vim,grafana,graphql,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,nix,aws,vim,grafana,graphql,electron)](https://skillicons.dev)
 
 ## My Github Stats
 
