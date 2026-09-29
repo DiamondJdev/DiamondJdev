@@ -1,11 +1,11 @@
 # Hey, I'm @DiamondJdev 👋
 
-SWE - **Tariff Ninja** | Ex SWE Intern - **WayPave & Walmart Global** | **Backend Hyperfixation**
+CS @ University of Arkansas | Former SWE @ Tariff Ninja & Walmart Global Tech | Backend Software Engineer
 
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
 - Can always find me building a Backend somewhere
-- I use NixOS btw
+- I use NixOS btw 
 
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,nix,java,spring,postgres,docker,kubernetes,vscode,discord)](https://skillicons.dev)
