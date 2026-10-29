@@ -1,6 +1,6 @@
 # Hey, I'm @DiamondJdev 👋
 
-CS @ University of Arkansas | Former SWE @ Tariff Ninja & Walmart Global Tech | Backend Software Engineer
+CS and Applied Mathematics @ University of Arkansas | Former SWE @ Walmart Global Tech | Backend Software Engineer
 
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
