@@ -5,7 +5,7 @@ CS and Applied Mathematics @ University of Arkansas | Former SWE @ Walmart Globa
 ### About Me  
 - Fascinated by anything that flies: **Rockets, Drones, Planes...**  
 - Can always find me building a Backend somewhere
-- I use NixOS btw 
+- I use NixOS btw [(Check my config!)](https://github.com/diamondjdev/nixos)
 
 ### Things I code with
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,nix,java,spring,postgres,docker,kubernetes,vscode,discord)](https://skillicons.dev)
