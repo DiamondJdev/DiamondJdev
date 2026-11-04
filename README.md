@@ -8,9 +8,9 @@ CS and Applied Mathematics @ University of Arkansas | Former SWE @ Walmart Globa
 - I use NixOS btw [(Check my config!)](https://github.com/diamondjdev/nixos)
 
 ### Things I code with
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,nix,java,spring,postgres,docker,kubernetes,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,nix,java,spring,postgres,docker,kubernetes,vscode)](https://skillicons.dev)
 ### Studying
-[![My Skills](https://skillicons.dev/icons?i=arch,nix,aws,vim,grafana,graphql,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,aws,grafana,graphql)](https://skillicons.dev)
 
 ## My Github Stats
 
